@@ -1,0 +1,16 @@
+{
+  "name": "mcprecruit-marketplace",
+  "description": "MCPrecruit — AI recruiting tools for Claude. Autonomous candidate screening with scientifically-weighted rubrics.",
+  "owner": {
+    "name": "kumar",
+    "email": "cyrus.hr@gmail.com"
+  },
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "recruit-screener",
+      "description": "Reads candidate resumes and produces a scored, ranked shortlist against a job's rubric — with reasoning and must-have gating. The recruiter makes the final call.",
+      "source": "./plugins/recruit-screener"
+    }
+  ]
+}
