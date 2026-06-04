@@ -1,0 +1,11 @@
+{
+  "name": "recruit-screener",
+  "version": "1.0.0",
+  "description": "Autonomous candidate screening: read resumes, score them against a weighted job rubric, and produce a ranked shortlist with reasoning. The recruiter owns the final decision.",
+  "author": {
+    "name": "kumar",
+    "email": "cyrus.hr@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["recruiting", "hiring", "resume-screening", "hr", "ai-recruiter", "shortlist"]
+}
